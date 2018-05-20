@@ -17,5 +17,4 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
 
-  System.out.println("CI/CD");
 }
